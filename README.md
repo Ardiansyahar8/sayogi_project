@@ -1,1 +1,0 @@
-# sayogi_project
