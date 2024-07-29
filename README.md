@@ -37,9 +37,11 @@ The model was trained using transfer learning with YOLOv8 on a custom dataset fr
 <p>
     <img src="train_batch0.jpg" > <br>
     1. train_batch0 <br>
-    "train_batch0" refers to the first batch of training data used in the training phase of a machine learning or deep learning model. It contains the initial subset of the training data, which the model processes to begin updating its parameters and improving performance. <br>
-    
-    <img src="val_batch0.jpg" > <br>
+    "train_batch0" refers to the first batch of training data used in the training phase of a machine learning or deep learning model. It contains the initial subset of the training data, which the model processes to begin updating its parameters and improving performance. 
+    </p>
+ 
+<p>
+     <img src="val_batch0.jpg" > <br>
     2. val_batch0 <br>
     "val_batch0" refers to the first batch of validation data used during the validation phase of a machine learning or deep learning model. This batch is used to evaluate the model's performance and generalization ability on unseen data after training on the training batches.
     
