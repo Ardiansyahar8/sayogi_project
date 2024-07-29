@@ -32,6 +32,16 @@ The dataset was obtained from Roboflow and consists of 3851 images with 24 class
 
 The model was trained using transfer learning with YOLOv8 on a custom dataset from Roboflow. Once trained, the custom YOLOv8 model was converted to TensorFlow Lite for deployment on Android.
 
+## Result 
+
+<p>
+    <img src="train_batch0.jpg" >
+    <img src="train_batch1.jpg" >
+    
+    <img src="results.png" >
+    <img src="confusion_matrix (1).png" >
+</p>
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
