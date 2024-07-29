@@ -54,12 +54,12 @@ The model was trained using transfer learning with YOLOv8 on a custom dataset fr
 
 <p>
     <img src="confusion_matrix (1).png" > <br>
-    3. Confusion matriks <br>
+    4. Confusion matriks <br>
     A confusion matrix is a table used to evaluate the performance of a classification model. It displays the counts of true positive, true negative, false positive, and false negative predictions, helping to understand the model's accuracy, precision, recall, and overall performance.
 </p>
 <p>
      <img src="F1_curve.png" > <br>
-  4. F1 Curve <br>
+  5. F1 Curve <br>
     An F1 curve is a graphical representation that shows the F1 score of a classification model across different threshold values. The F1 score is the harmonic mean of precision and recall, and the curve helps in visualizing how the balance between precision and recall changes with varying thresholds.
     
 </p>
