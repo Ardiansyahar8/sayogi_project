@@ -59,6 +59,7 @@ The model was trained using transfer learning with YOLOv8 on a custom dataset fr
 </p>
 <p>
      <img src="F1_curve.png" > <br>
+  4. F1 Curve <br>
     An F1 curve is a graphical representation that shows the F1 score of a classification model across different threshold values. The F1 score is the harmonic mean of precision and recall, and the curve helps in visualizing how the balance between precision and recall changes with varying thresholds.
     
 </p>
