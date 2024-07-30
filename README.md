@@ -81,7 +81,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Ardiansyah</p> 
 
 
-<p>Program Studi Teknik Industri Pertanian<br>Universitas Linggabuana PGRI Sukabumi</p>
+<p>Agroindustial Engineering<br>Universitas Linggabuana PGRI Sukabumi</p>
 
 If you have any questions or suggestions, feel free to open an issue or contact us at (mailto:ardiansyahar8@gmail.com).
 
