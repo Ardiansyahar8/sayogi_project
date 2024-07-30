@@ -83,5 +83,5 @@ Ardiansyah</p>
 
 <p>Agroindustial Engineering<br>Universitas Linggabuana PGRI Sukabumi</p>
 
-If you have any questions or suggestions, feel free to open an issue or contact us at (mailto:ardiansyahar8@gmail.com).
+If you have any questions or suggestions, feel free to open an issue or contact us at (mail to: ardiansyahar8@gmail.com ).
 
